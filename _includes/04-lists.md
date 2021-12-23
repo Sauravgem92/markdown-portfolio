@@ -1,4 +1,4 @@
-*HTML
-*CSS
-*Bootstrap
-*JS
+* HTML
+* CSS
+* Bootstrap
+* JS
